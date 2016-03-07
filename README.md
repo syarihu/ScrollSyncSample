@@ -1,1 +1,2 @@
 # ScrollSyncSample
+ViewPager間でスクロールを同期するためのサンプル
